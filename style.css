@@ -306,6 +306,10 @@ body, html {
     .nav2 {
         display: none;
     }
+    .nav3 {
+        margin-right: 0px;
+        display: none;
+    }
     .tables-header h1 {
         text-align: center;
         margin-left: 0px;
@@ -338,6 +342,10 @@ body, html {
         justify-content: center;
     }
     .footer6-2 ul{
+        justify-content: center;
+    }
+    .post-footer{
+        margin-right: 0px;
         justify-content: center;
     }
 }
